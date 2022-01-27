@@ -28,11 +28,3 @@ Green LED - Moka Pot detected
 Red LED -  No Moka Pot detected
 
 <img src="./NoMokaPot.jpg" width=50% height=50%/>
-Green LED - MokaPot detected
-
-<img src="./MokaPot.jpg" width=50% height=50%/>
-
-
-Red LED -  No MokaPot detected
-
-<img src="./NoMokaPot.jpg" width=50% height=50%/>
