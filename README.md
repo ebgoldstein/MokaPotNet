@@ -8,8 +8,10 @@ On device machine learning to detect a MokaPot.
 
 
 Green LED - MokaPot detected
+
 <img src="./MokaPot.jpg" width=50% height=50%/>
 
 
 Red LED -  No MokaPot detected
+
 <img src="./NoMokaPot.jpg" width=50% height=50%/>
